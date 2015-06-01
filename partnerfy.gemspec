@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["lasslo.net@gmail.com"]
 
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "http://github.com/lorenzosinisi/testgem"
+    spec.metadata['allowed_push_host'] = "https://rubygems.org"
   end
 
   spec.summary       = %q{This is a test gem}
